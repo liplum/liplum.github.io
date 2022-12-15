@@ -1,0 +1,19 @@
+{
+  "name": "liplum",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liplum/liplum.github.io.git"
+  },
+  "author": "Liplum",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liplum/liplum.github.io/issues"
+  },
+  "homepage": "https://github.com/liplum/liplum.github.io#readme"
+}
